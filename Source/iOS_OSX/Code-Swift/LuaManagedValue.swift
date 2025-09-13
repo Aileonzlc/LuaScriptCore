@@ -5,6 +5,8 @@
 //  Created by 冯鸿杰 on 2017/5/24.
 //  Copyright © 2017年 vimfung. All rights reserved.
 //
+import Foundation
+import LuaScriptCore
 
 public class LuaManagedValue: NSObject
 {
